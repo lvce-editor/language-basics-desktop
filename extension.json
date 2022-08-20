@@ -1,7 +1,7 @@
 {
   "id": "builtin.language-basics-desktop",
   "name": "Language Basics desktop",
-  "description": "Provides syntax highlighting and bracket matching in Windows desktopch files.",
+  "description": "Provides syntax highlighting and bracket matching in desktop files.",
   "languages": [
     {
       "id": "desktop",
