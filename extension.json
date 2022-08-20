@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-desktop",
+  "name": "Language Basics desktop",
+  "description": "Provides syntax highlighting and bracket matching in Windows desktopch files.",
+  "languages": [
+    {
+      "id": "desktop",
+      "extensions": [".desktop"],
+      "tokenize": "src/tokenizeDesktop.js"
+    }
+  ]
+}
