@@ -1,5 +1,3 @@
-Text
-NewLine
 JsonPropertyName
 Punctuation
 YamlPropertyValueString
