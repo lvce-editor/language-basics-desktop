@@ -5,8 +5,11 @@
   "languages": [
     {
       "id": "desktop",
-      "extensions": [".desktop"],
+      "extensions": [
+        ".desktop"
+      ],
       "tokenize": "src/tokenizeDesktop.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-desktop"
 }
