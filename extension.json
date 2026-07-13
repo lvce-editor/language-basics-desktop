@@ -5,9 +5,7 @@
   "languages": [
     {
       "id": "desktop",
-      "extensions": [
-        ".desktop"
-      ],
+      "extensions": [".desktop"],
       "tokenize": "src/tokenizeDesktop.js"
     }
   ],
